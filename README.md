@@ -9,5 +9,5 @@ You will need to update the Cognisim `API-TOKEN` in post.php.
 The headers 'Email' and 'domain' from csv files are case sensitive and must be kept as they are written.
 
 
-## License
+### License
 [MIT](https://github.com/jvicensfarrus/lead-enrichment-tool-cognisim/blob/main/LICENSE)
